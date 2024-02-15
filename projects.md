@@ -1,6 +1,7 @@
 # Python Projects 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 - [Data structures](https://github.com/pedrohnq/data-structures)
+- [Calculator](https://github.com/pedrohnq/math-calculator)
 
 # Pandas Projects
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
